@@ -9,21 +9,21 @@ Diving deep in technologies related to Web development and starting out my journ
 - 🤖 2022 Goals: Be a better software developer.
 - 📫 Find me at:
 
-<a href="https://www.linkedin.com/in/">
+<a href="https://www.linkedin.com/in/abhijit-dutta-3800a2193/">
   <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/">
+<a href="https://github.com/AbhijitDutta338">
   <img align="left" alt=" GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="mailto:@gmail.com">
+<a href="mailto:abhidutta338@gmail.com">
   <img align="left" alt=" Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-<a href="">
+<a href="https://www.hackerrank.com/abhidutta338">
   <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" 
 </a>
-<a href="">
+<a href="https://www.hackerearth.com/@abhijit380">
   <img align="left" alt=" HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerearth.svg" />
 </a>
-<a href="">
+<a href="https://leetcode.com/Abhijit380/">
   <img align="left" alt=" LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />
 </a>
