@@ -1,4 +1,4 @@
-# Hi! I am Abhijit <img src="https://raw.githubusercontent.com/rudrajit1729/rudrajit1729/master/static/gifs/Hi.gif" width="30px">
+# Hi! I am Abhijit
 
 
 I am a Software Developer based in India
@@ -9,16 +9,13 @@ Diving deep in technologies related to Web development and starting out my journ
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitDutta338&layout=compact)
 
 <a href="https://www.linkedin.com/in/abhijit-dutta-3800a2193/">
-  <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt=" Linkedin" width="22px" src="https://icons8.com/icon/13930/linkedin" />
 </a>
 <a href="https://github.com/AbhijitDutta338">
   <img align="left" alt=" GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="mailto:abhidutta338@gmail.com">
   <img align="left" alt=" Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<a href="https://www.hackerrank.com/abhidutta338">
-  <img align="left" alt=" HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerrank.svg" 
 </a>
 <a href="https://www.hackerearth.com/@abhijit380">
   <img align="left" alt=" HackerEarth" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/hackerearth.svg" />
