@@ -1,13 +1,11 @@
 # Hi! I am Abhijit <img src="https://raw.githubusercontent.com/rudrajit1729/rudrajit1729/master/static/gifs/Hi.gif" width="30px">
 
 
-I am a Computer Science final year undergrad student 🐱‍💻 in kolkata.
+I am a Software Developer based in India
 <br>
 Diving deep in technologies related to Web development and starting out my journey in opensouce.
 
-- 🌱 Currently starting out with opensource contributions!
-- 🤖 2022 Goals: Be a better software developer.
-- 📫 Find me at:
+![Github stats](https://github-readme-stats.vercel.app/api?username=AbhijitDutta338&theme=highcontrast&show_icons=true&count_private=true)
 
 <a href="https://www.linkedin.com/in/abhijit-dutta-3800a2193/">
   <img align="left" alt=" Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
