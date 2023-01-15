@@ -5,7 +5,7 @@ I am a Software Developer based in India
 <br>
 Diving deep in technologies related to Web development and starting out my journey in opensouce.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=AbhijitDutta338&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=AbhijitDutta338&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhijitDutta338&layout=compact)
 
 <a href="https://www.linkedin.com/in/abhijit-dutta-3800a2193/">
